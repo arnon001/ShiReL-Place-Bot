@@ -114,7 +114,6 @@ client.on("message", async message => {
         "https://img2.pngdownload.id/20180320/suq/kisspng-wi-fi-alliance-logo-internet-wifi-modem-icon-5ab0c69c1e7634.5561903815215346201248.jpg"
       );
     message.channel.send(embedioz);
-    message.delete(10000);
   }
 
   if (cmd == "!say") { 
