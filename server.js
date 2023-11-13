@@ -17,7 +17,6 @@ const discord = require("discord.js");
 const client = new discord.Client();
 const ms = require("ms");
 
-const canvas = require("canvas");
 var db = require("quick.db");
 client.login(process.env.TOKEN);
 
