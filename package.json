@@ -1,0 +1,19 @@
+{
+  "name": "shirel-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for ShiRel Discord Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.2",
+    "giphy": "^0.0.4",
+    "gith": "^1.0.4",
+    "quick.db": "^7.1.1",
+    "ytdl-core": "^3.1.1"
+  },
+  "license": "MIT"
+}
